@@ -58,3 +58,32 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Project-specific layout
+/copygame/
+/.dotnet/
+/tools/
+/*.log
+/HorseRace/[Ll]ibrary/
+/HorseRace/[Tt]emp/
+/HorseRace/[Oo]bj/
+/HorseRace/[Bb]uild/
+/HorseRace/[Bb]uilds/
+/HorseRace/[Ll]ogs/
+/HorseRace/[Uu]ser[Ss]ettings/
+/HorseRace/.vs/
+/HorseRace/Assets/.vs/
+/HorseRace/*.csproj
+/HorseRace/*.unityproj
+/HorseRace/*.sln
+/HorseRace/*.suo
+/HorseRace/*.tmp
+/HorseRace/*.user
+/HorseRace/*.userprefs
+/HorseRace/*.pidb
+/HorseRace/*.booproj
+/HorseRace/*.svd
+/HorseRace/*.pdb
+/HorseRace/*.mdb
+/HorseRace/*.opendb
+/HorseRace/*.VC.db
+/HorseRace/.vsconfig
